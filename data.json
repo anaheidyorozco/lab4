@@ -1,0 +1,25 @@
+{
+    "titulo": "Revista de partes de Computadoras", 
+    "articulos": [
+        {
+            "titulo": "Procesadores",
+            "imagen": "imagenes/procesador.jpg",
+"contenido": " Los procesadores son componentes fundamentales en una computadora.Son responsables de realizar las operaciones las operaciones y calculos necesarios para el funcionamiento del sistema."
+        },
+        {
+            "titulo": "tarjetas graficas",
+            "imagen": "imagenes/tarjeta-madre.jpg",
+            "contenido": "Las tarjetas graficas son componentes esencial para los amantes de los juegos y el diseño grafico."
+        },
+        {
+            "titulo": "Memoria RAM",
+            "imagen": "imagenes/memoria-ram.jpg",
+            "contenido": "La memoria RAM (Random Access Memory) es un componente vital en cualquier computadora. Actua como espacio de almacenamiento temporal para los datos y programas que se estan utilizando en el momento."
+        },
+        {
+            "titulo": "Disco duro",
+            "imagen": "imagenes/disco-duro.jpg",
+            "contenido": "El disco duro es el dispositivo de almacenamiento principal de la computadora, donde se guardan los archivos y programas."
+        }
+    ]
+}
